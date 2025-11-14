@@ -1,9 +1,9 @@
-NiXX-Studio End User License Agreement (EULA)
+NiXX-Studio™ End User License Agreement (EULA)
 
 Version 1.0
-© <YEAR> Starsick. All Rights Reserved.
+© 2025 Starsick. All Rights Reserved.
 
-This End User License Agreement (“Agreement”) is a legal contract between Starsick (“Licensor”) and you (“Licensee”) governing the use of the software product NiXX-Studio, including all executable files, binaries, documentation, and related materials (“Software”).
+This End User License Agreement (“Agreement”) is a legal contract between Starsick (“Licensor”) and you (“Licensee”) governing the use of the software product NiXX-Studio™, including all executable files, binaries, documentation, and related materials (“Software”).
 
 By downloading, installing, or using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you do not agree, do not download, install, or use the Software.
 
@@ -125,4 +125,4 @@ This Agreement constitutes the complete and exclusive statement of terms between
 
 10. Acceptance
 
-By installing, executing, or otherwise using NiXX-Studio, the Licensee confirms acceptance of all terms contained in this Agreement.
+By installing, executing, or otherwise using NiXX-Studio™, the Licensee confirms acceptance of all terms contained in this Agreement.
