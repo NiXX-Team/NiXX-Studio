@@ -1,0 +1,52 @@
+# Build outputs
+build/
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt
+*.pro.user
+*.qm
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*~
+
+# User-specific files
+*.local
+
+# Dependencies
+deps/
+external/
+
+CHANGELOG.md
